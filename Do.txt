@@ -1,0 +1,6 @@
+1. search news using input
+2. searched history 
+3. search when enter button is pressed
+2. save into fav news
+3. navbar
+4. 

@@ -1,0 +1,28 @@
+
+.container{
+    background-color: rgb(244, 242, 239);
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.input-section{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-inner-box{
+    width: 80%;
+}
+.news-item{
+    background-color: #aee3ff92;
+    border-radius: 10px;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+.btn{
+    margin-left: 5px;
+}
+.read-more{
+    text-decoration: none;
+}
